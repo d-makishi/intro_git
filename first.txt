@@ -1,2 +1,4 @@
 Git
 Gitのワークフロー
+.git add
+.git commit
